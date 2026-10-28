@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 University Admission Assistant
 
 An AI-powered University Admission Assistant that uses **Retrieval-Augmented Generation (RAG)** to answer university admission-related questions from trusted documents.
@@ -148,3 +149,7 @@ This project demonstrates how Generative AI and RAG can be used to build a domai
 Lahari Pakalapati
  
  
+=======
+# University-Admission-Assistant
+AI-powered University Admission Assistant using RAG to answer admission-related queries from university documents. Uses Python, FAISS, vector embeddings, semantic search, LLMs, and prompt engineering to retrieve relevant information and generate context-aware responses.
+>>>>>>> 1dd15d741631b66572fff12bba49c57d03b2fa02
